@@ -34,6 +34,7 @@ Security: JWT, role-based access, hash-chain audit log
 Integrations: SMS/WhatsApp, registry export (JSON/PDF)
 
 📦 Repo Structure
+
 khetcarbon-mrv/
 ├─ apps/
 │  ├─ web/           # React PWA (this mockup)
@@ -47,6 +48,7 @@ khetcarbon-mrv/
 │  └─ cost-model.xlsx
 ├─ sample_evidence/  # JSON, EXIF-stripped photos (synthetic)
 └─ LICENSE
+
 
 🚀 Quick Start (Mock UI)
 
