@@ -56,7 +56,7 @@ Clone repo
 
 cd apps/web && npm i && npm run dev
 
-Open http://localhost:5173
+Open https://chatgpt.com/canvas/shared/689e439bc97c8191b20009c1d541768a
 (No backend required for the mock.)
 
 🧪 Evidence Pack (sample)
